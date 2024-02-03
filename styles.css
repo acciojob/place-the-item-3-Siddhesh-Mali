@@ -1,2 +1,14 @@
+ 
+    .holder{
+        width: 100vw;
+        margin: 30px 0px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .holder>div{
+        width: 100px;
+        height: 100px;
+        background-color: red;
+    }
 
-/* Your CSS Code here. */
+  
